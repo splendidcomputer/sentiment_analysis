@@ -13,7 +13,6 @@ This repository contains a Python script to perform sentiment analysis on movie 
   - [Prediction](#prediction)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Installation
 
@@ -114,7 +113,3 @@ print(predict_sentiment("The movie was okay, nothing special."))
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
