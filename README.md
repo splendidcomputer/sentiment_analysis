@@ -92,14 +92,14 @@ print(predict_sentiment("The movie was okay, nothing special."))
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-movie-reviews.git
-   cd sentiment-analysis-movie-reviews
+   git clone https://github.com/splendidcomputer/sentiment_analysis.git
+   cd sentiment-analysis
    ```
 
 2. **Install the required libraries:**
 
    ```bash
-   pip install nltk pandas scikit-learn
+   pip install -r requirements.txt
    ```
 
 3. **Run the script:**
