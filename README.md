@@ -109,7 +109,3 @@ print(predict_sentiment("The movie was okay, nothing special."))
    ```
 
 4. **Use the `predict_sentiment` function** to predict the sentiment of a new review.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
